@@ -1,0 +1,10 @@
+.z-depth-1-half map-container{
+	width:1000px;
+	height:1000px;
+}
+body{
+	background: linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%);
+}
+.section{
+	box-shadow: 10px 10px 5px grey;
+}
